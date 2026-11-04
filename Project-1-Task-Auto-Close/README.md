@@ -50,7 +50,7 @@ The Google Sheet containing the original task records before automation.
 
 ![Before Automation](demo/01-before-automation.png)
 
-### 2. n8n Workflow
+### 2. Running Automation
 
 The n8n workflow showing the automation process.
 
